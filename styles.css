@@ -2,3 +2,154 @@ body{
     font-family:monospace;
     
 }
+@media(min-width: 768px){
+    .search-input{
+        width:80%;
+    }
+}
+.above {
+    color:white;
+}
+
+.above  ul  li a{
+    color:white;
+}
+.nav-item a{
+    color:white !important;
+    float:left;
+}
+.nav-item a::hover{
+    color: #efefef !important;
+    background-color:rgba(0,0,0,0.8) !important;
+
+}
+.header {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+      url(img/banner1.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+  }
+  .custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+  
+  .navbar-toggler.custom-toggler{
+      
+    border-color:white;
+    color:white;
+  }
+.login-btn {
+    width: 100px;
+    padding: 8px 0;
+    outline: none imp !important;
+    border: 2px solid white;
+    border-radius: 50px;
+    color: white;
+    float: left;
+    background:transparent;
+  }
+  .input-group {
+    width: 90% !important;
+    max-width: 500px;
+    border-radius: 30px;
+    background: white;
+    margin: auto;
+    padding: 2px;
+  }
+  .form-control {
+    border: 0 !important;
+    border-radius: 30px !important;
+    box-shadow: none !important;
+  }
+  .input-group-text {
+    width: 100px;
+    height:100%;
+    background-image: linear-gradient(#000f7e, #6f3d90);
+    border: 0 !important;
+    color: white !important;
+    padding: 0 25px !important;
+    border-radius: 30px !important;
+    box-shadow: none !important;
+  }body{
+    font-family:monospace;
+    
+}
+@media(min-width: 768px){
+    .search-input{
+        width:80%;
+    }
+}
+.above {
+    color:white;
+}
+
+.above  ul  li a{
+    color:white;
+}
+.nav-item a{
+    color:white !important;
+    float:left;
+}
+.nav-item a::hover{
+    color: #efefef !important;
+    background-color:rgba(0,0,0,0.8) !important;
+
+}
+.header {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+      url(img/banner1.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+  }
+  .custom-toggler .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='white' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+  
+  .navbar-toggler.custom-toggler{
+      
+    border-color:white;
+    color:white;
+  }
+.login-btn {
+    width: 100px;
+    padding: 8px 0;
+    outline: none imp !important;
+    border: 2px solid white;
+    border-radius: 50px;
+    color: white;
+    float: left;
+    background:transparent;
+  }
+  .input-group {
+    width: 90% !important;
+    max-width: 500px;
+    border-radius: 30px;
+    background: white;
+    margin: auto;
+    padding: 2px;
+  }
+  .form-control {
+    border: 0 !important;
+    border-radius: 30px !important;
+    box-shadow: none !important;
+  }
+  .input-group-text {
+    width: 100px;
+    height:100%;
+    background-image: linear-gradient(#000f7e, #6f3d90);
+    border: 0 !important;
+    color: white !important;
+    padding: 0 25px !important;
+    border-radius: 30px !important;
+    box-shadow: none !important;
+  }
