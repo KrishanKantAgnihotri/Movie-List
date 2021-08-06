@@ -15,14 +15,15 @@ Fully Responsive design working on every device.
   <li>Characters images + explanation.</li>
  </ul>
 <br>
+
 ![alt text](https://github.com/KRISHANKANTAGNIHOTRI/Movie-list/blob/main/img/m2.png)
 <br>
 <h3>Reviews Page</h3>
 <br>
+
 ![alt text](https://github.com/KRISHANKANTAGNIHOTRI/Movie-list/blob/main/img/m3.png)
 <br>
 <h3>Mobile View</h3>
-<br>
+<br> 
 ![alt text](https://github.com/KRISHANKANTAGNIHOTRI/Movie-list/blob/main/img/m4.png)
-<br>
 ![alt text](https://github.com/KRISHANKANTAGNIHOTRI/Movie-list/blob/main/img/m5.png)
