@@ -25,5 +25,6 @@ Fully Responsive design working on every device.
 <br>
 <h3>Mobile View</h3>
 <br> 
+
 ![alt text](https://github.com/KRISHANKANTAGNIHOTRI/Movie-list/blob/main/img/m4.png)
 ![alt text](https://github.com/KRISHANKANTAGNIHOTRI/Movie-list/blob/main/img/m5.png)
